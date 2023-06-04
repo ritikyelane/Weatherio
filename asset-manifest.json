@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ritikyelane/Weatherio/static/css/main.90a03d92.css",
+    "main.js": "/ritikyelane/Weatherio/static/js/main.a1666846.js",
+    "static/media/sunset.jpg": "/ritikyelane/Weatherio/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/ritikyelane/Weatherio/index.html",
+    "main.90a03d92.css.map": "/ritikyelane/Weatherio/static/css/main.90a03d92.css.map",
+    "main.a1666846.js.map": "/ritikyelane/Weatherio/static/js/main.a1666846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90a03d92.css",
+    "static/js/main.a1666846.js"
+  ]
+}
